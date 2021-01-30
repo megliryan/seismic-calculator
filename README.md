@@ -9,7 +9,7 @@ Project visible here: https://acte.ltd/seismic/calculator
 Install npm on you system and run:
 
 ```sh
-git clone https://github.com/AdrienAdB/seismic-calculator.git
+git clone https://github.com/megliryan/seismic-calculator.git
 cd seismic-calculator
 npm install
 npm start
